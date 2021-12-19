@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int main()
+{
+printf("Hello World! \n"); //This is the single line commment and it will show the code.
+printf("Hi,"); /* This multiple comment but the code between the comment will not be visible. ("/*" this is opening comment tag)
+printf("This line will be not visible"); this is commrnt closing tag */
+printf("This is Shivam. \n");
+printf("Welcom to jurny with C.");
+return 0;
+}
