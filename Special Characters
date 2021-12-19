@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main()
+{
+	/*
+	%s = string ""
+	%d = integer
+	%f = float
+	*/	
+	printf("This is %s, He is a student and pursuing B.Tech.\n", "Shivam");
+	return 0;	
+}
